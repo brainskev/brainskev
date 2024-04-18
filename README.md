@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kelvin_ngotho" target="blank"><img src="https://img.shields.io/twitter/follow/kelvin_ngotho?logo=twitter&style=for-the-badge" alt="kelvin_ngotho" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript & React**
+- 🌱 I’m currently working on **Side Projects**
 
 - 📫 How to reach me **ngotho.kelvin@yahoo.com**
 
